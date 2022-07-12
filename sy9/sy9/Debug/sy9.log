@@ -1,0 +1,26 @@
+﻿生成启动时间为 2022/6/18 15:53:49。
+     1>项目“D:\sy9\sy9\sy9.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\sy9.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "text-6-18.cpp"
+         text-6-18.cpp
+     1>d:\sy9\sy9\text-6-18.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>d:\sy9\sy9\text-6-18.cpp(3): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(4): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(4): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(4): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(5): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(7): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(8): error C2337: “i”: 未找到特性
+     1>d:\sy9\sy9\text-6-18.cpp(8): error C2143: 语法错误 : 缺少“;”(在“++”的前面)
+     1>d:\sy9\sy9\text-6-18.cpp(8): error C2059: 语法错误:“;”
+     1>d:\sy9\sy9\text-6-18.cpp(9): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(10): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(12): error C2065: “i”: 未声明的标识符
+     1>d:\sy9\sy9\text-6-18.cpp(14): fatal error C1075: 与左侧的 大括号“{”(位于“d:\sy9\sy9\text-6-18.cpp(3)”)匹配之前遇到文件结束
+     1>已完成生成项目“D:\sy9\sy9\sy9.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.08
